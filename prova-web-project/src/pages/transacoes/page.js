@@ -4,7 +4,7 @@ import Footer from '../../components/Footer'
 import Table from '../../components/TableComponent'
 
 
-function Page({props}) {
+function Page() {
   return (
     <>
         <Header />
